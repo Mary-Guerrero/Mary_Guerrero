@@ -1,0 +1,719 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.MG_web" resolutions="1x" timestamp="1557778999257">
+  <folder name="css">
+    <file name="site_global.css" crc="178847648"/>
+    <file name="master_wpm.css" crc="115334221" ref="adobe:video:fetch:responsive:wireframe:java"/>
+    <file name="nomq_preview_master_wpm.css" crc="3824530138" ref="adobe:video:fetch:responsive:wireframe:java"/>
+    <file name="master_spm.css" crc="30002901" ref="index"/>
+    <file name="nomq_preview_master_spm.css" crc="452789547" ref="index"/>
+    <file name="adobe.css" crc="56970795" ref="adobe"/>
+    <file name="nomq_adobe.css" crc="266836622" ref="adobe"/>
+    <file name="video.css" crc="4223854071" ref="video"/>
+    <file name="nomq_video.css" crc="30420687" ref="video"/>
+    <file name="index.css" crc="4022787506" ref="index"/>
+    <file name="nomq_index.css" crc="2216676" ref="index"/>
+    <file name="fetch.css" crc="461716562" ref="fetch"/>
+    <file name="nomq_fetch.css" crc="4262556480" ref="fetch"/>
+    <file name="responsive.css" crc="512021421" ref="responsive"/>
+    <file name="nomq_responsive.css" crc="214456101" ref="responsive"/>
+    <file name="wireframe.css" crc="384403155" ref="wireframe"/>
+    <file name="nomq_wireframe.css" crc="4234824955" ref="wireframe"/>
+    <file name="java.css" crc="294557986" ref="java"/>
+    <file name="nomq_java.css" crc="3991287719" ref="java"/>
+  </folder>
+  <folder name="fonts">
+    <file name="poppins-light-webfont1.woff" crc="471025484"/>
+    <file name="poppins-light-webfont1.eot" crc="485227326"/>
+    <file name="poppins-light-webfont1.svg" crc="383724902"/>
+    <file name="ageo-medium-webfont1.woff" crc="312993443"/>
+    <file name="ageo-medium-webfont1.eot" crc="3818571439"/>
+    <file name="ageo-medium-webfont1.svg" crc="4226371931"/>
+    <file name="poppins-italic-webfont1.woff" crc="425436340"/>
+    <file name="poppins-italic-webfont1.eot" crc="4264057377"/>
+    <file name="poppins-italic-webfont1.svg" crc="3835699514"/>
+    <file name="poppins-lightitalic-webfont1.woff" crc="3891156432"/>
+    <file name="poppins-lightitalic-webfont1.eot" crc="198276109"/>
+    <file name="poppins-lightitalic-webfont1.svg" crc="3926829561"/>
+    <file name="ageo_1-webfont.woff" crc="4080605777"/>
+    <file name="ageo_1-webfont.eot" crc="3875783408"/>
+    <file name="ageo_1-webfont.svg" crc="90832957"/>
+    <file name="poppins-regular-webfont1.woff" crc="245720104"/>
+    <file name="poppins-regular-webfont1.eot" crc="3874717403"/>
+    <file name="poppins-regular-webfont1.svg" crc="428461597"/>
+    <file name="ageo-light-webfont1.woff" crc="3795370075"/>
+    <file name="ageo-light-webfont1.eot" crc="488452092"/>
+    <file name="ageo-light-webfont1.svg" crc="4173365010"/>
+    <file name="ageo-bold-webfont1.woff" crc="477089380"/>
+    <file name="ageo-bold-webfont1.eot" crc="4083271318"/>
+    <file name="ageo-bold-webfont1.svg" crc="76326646"/>
+  </folder>
+  <folder name="assets">
+    <folder name="shape_reverse">
+      <folder name="images">
+        <file name="Shape_reverse_atlas_.png" crc="3945840656" mt="1557448758000"/>
+      </folder>
+      <file name="Shape_reverse.js" crc="3972951184" mt="1557448758000"/>
+      <file name="Shape_reverse.html" crc="4286376002" mt="1557448758000"/>
+    </folder>
+    <file name="my_video.mp4" crc="3941500516" seo="true" mt="1555444348000"/>
+    <file name="ageo_1-webfont2.eot" crc="3875783408" seo="true" mt="1556673046000"/>
+    <file name="ageo_1-webfont2.svg" crc="90832957" seo="true" mt="1556673046000"/>
+    <file name="ageo_1-webfont2.woff" crc="4080605777" seo="true" mt="1556673046000"/>
+    <file name="ageo_1-webfont2.woff2" crc="3993177134" seo="true" mt="1556673046000"/>
+    <file name="ageo-bold-webfont2.eot" crc="4083271318" seo="true" mt="1556472136000"/>
+    <file name="ageo-bold-webfont2.svg" crc="76326646" seo="true" mt="1556472136000"/>
+    <file name="ageo-bold-webfont2.woff" crc="477089380" seo="true" mt="1556472136000"/>
+    <file name="ageo-bold-webfont2.woff2" crc="4088285551" seo="true" mt="1556472136000"/>
+    <file name="ageo-bolditalic-webfont2.eot" crc="104967267" seo="true" mt="1556472136000"/>
+    <file name="ageo-bolditalic-webfont2.svg" crc="326099828" seo="true" mt="1556472136000"/>
+    <file name="ageo-bolditalic-webfont2.woff" crc="433078479" seo="true" mt="1556472136000"/>
+    <file name="ageo-bolditalic-webfont2.woff2" crc="22053813" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabold-webfont2.eot" crc="287564622" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabold-webfont2.svg" crc="4109883361" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabold-webfont2.woff" crc="138872807" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabold-webfont2.woff2" crc="198510317" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabolditalic-webfont2.eot" crc="133489340" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabolditalic-webfont2.svg" crc="3800437589" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabolditalic-webfont2.woff" crc="3924920537" seo="true" mt="1556472136000"/>
+    <file name="ageo-extrabolditalic-webfont2.woff2" crc="204021623" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavy-webfont2.eot" crc="3904504666" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavy-webfont2.svg" crc="3787710405" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavy-webfont2.woff" crc="130107712" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavy-webfont2.woff2" crc="227787908" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavyitalic-webfont2.eot" crc="106340764" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavyitalic-webfont2.svg" crc="63146297" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavyitalic-webfont2.woff" crc="257631983" seo="true" mt="1556472136000"/>
+    <file name="ageo-heavyitalic-webfont2.woff2" crc="116112262" seo="true" mt="1556472136000"/>
+    <file name="ageo-light-webfont2.eot" crc="488452092" seo="true" mt="1556472136000"/>
+    <file name="ageo-light-webfont2.svg" crc="4173365010" seo="true" mt="1556472136000"/>
+    <file name="ageo-light-webfont2.woff" crc="3795370075" seo="true" mt="1556472136000"/>
+    <file name="ageo-light-webfont2.woff2" crc="4089803506" seo="true" mt="1556472136000"/>
+    <file name="ageo-lightitalic-webfont2.eot" crc="147969106" seo="true" mt="1556472136000"/>
+    <file name="ageo-lightitalic-webfont2.svg" crc="226413027" seo="true" mt="1556472136000"/>
+    <file name="ageo-lightitalic-webfont2.woff" crc="3979195445" seo="true" mt="1556472136000"/>
+    <file name="ageo-lightitalic-webfont2.woff2" crc="149992065" seo="true" mt="1556472136000"/>
+    <file name="ageo-medium-webfont2.eot" crc="3818571439" seo="true" mt="1556472136000"/>
+    <file name="ageo-medium-webfont2.svg" crc="4226371931" seo="true" mt="1556472136000"/>
+    <file name="ageo-medium-webfont2.woff" crc="312993443" seo="true" mt="1556472136000"/>
+    <file name="ageo-medium-webfont2.woff2" crc="488297715" seo="true" mt="1556472136000"/>
+    <file name="ageo-mediumitalic-webfont2.eot" crc="4048093591" seo="true" mt="1556472136000"/>
+    <file name="ageo-mediumitalic-webfont2.svg" crc="2771122" seo="true" mt="1556472136000"/>
+    <file name="ageo-mediumitalic-webfont2.woff" crc="381843753" seo="true" mt="1556472136000"/>
+    <file name="ageo-mediumitalic-webfont2.woff2" crc="3983879314" seo="true" mt="1556472136000"/>
+    <file name="ageo-regularitalic-webfont2.eot" crc="129432143" seo="true" mt="1556472136000"/>
+    <file name="ageo-regularitalic-webfont2.svg" crc="163248236" seo="true" mt="1556472136000"/>
+    <file name="ageo-regularitalic-webfont2.woff" crc="466227401" seo="true" mt="1556472136000"/>
+    <file name="ageo-regularitalic-webfont2.woff2" crc="4125076303" seo="true" mt="1556472136000"/>
+    <file name="ageo-semibold-webfont2.eot" crc="337967852" seo="true" mt="1556472136000"/>
+    <file name="ageo-semibold-webfont2.svg" crc="3990268079" seo="true" mt="1556472136000"/>
+    <file name="ageo-semibold-webfont2.woff" crc="180414143" seo="true" mt="1556472136000"/>
+    <file name="ageo-semibold-webfont2.woff2" crc="339555856" seo="true" mt="1556472136000"/>
+    <file name="poppins-black-webfont2.eot" crc="67450420" seo="true" mt="1556675806000"/>
+    <file name="poppins-black-webfont2.svg" crc="13622326" seo="true" mt="1556675806000"/>
+    <file name="poppins-black-webfont2.woff" crc="4047209731" seo="true" mt="1556675806000"/>
+    <file name="poppins-black-webfont2.woff2" crc="91075182" seo="true" mt="1556675806000"/>
+    <file name="poppins-bold-webfont2.eot" crc="114747152" seo="true" mt="1556675806000"/>
+    <file name="poppins-bold-webfont2.svg" crc="297600749" seo="true" mt="1556675806000"/>
+    <file name="poppins-bold-webfont2.woff" crc="500427740" seo="true" mt="1556675806000"/>
+    <file name="poppins-bold-webfont2.woff2" crc="392494875" seo="true" mt="1556675806000"/>
+    <file name="poppins-extrabold-webfont2.eot" crc="10799252" seo="true" mt="1556675806000"/>
+    <file name="poppins-extrabold-webfont2.svg" crc="3940611537" seo="true" mt="1556675806000"/>
+    <file name="poppins-extrabold-webfont2.woff" crc="3848227858" seo="true" mt="1556675806000"/>
+    <file name="poppins-extrabold-webfont2.woff2" crc="3965085802" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralight-webfont2.eot" crc="4264343190" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralight-webfont2.svg" crc="347112823" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralight-webfont2.woff" crc="4168675759" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralight-webfont2.woff2" crc="196494748" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralightitalic-webfont2.eot" crc="4089384481" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralightitalic-webfont2.svg" crc="3862497450" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralightitalic-webfont2.woff" crc="4195401484" seo="true" mt="1556675806000"/>
+    <file name="poppins-extralightitalic-webfont2.woff2" crc="3814780506" seo="true" mt="1556675806000"/>
+    <file name="poppins-italic-webfont2.eot" crc="4264057377" seo="true" mt="1556675806000"/>
+    <file name="poppins-italic-webfont2.svg" crc="3835699514" seo="true" mt="1556675806000"/>
+    <file name="poppins-italic-webfont2.woff" crc="425436340" seo="true" mt="1556675806000"/>
+    <file name="poppins-italic-webfont2.woff2" crc="476797760" seo="true" mt="1556675806000"/>
+    <file name="poppins-light-webfont2.eot" crc="485227326" seo="true" mt="1556675806000"/>
+    <file name="poppins-light-webfont2.svg" crc="383724902" seo="true" mt="1556675806000"/>
+    <file name="poppins-light-webfont2.woff" crc="471025484" seo="true" mt="1556675806000"/>
+    <file name="poppins-light-webfont2.woff2" crc="4132312087" seo="true" mt="1556675806000"/>
+    <file name="poppins-lightitalic-webfont2.eot" crc="198276109" seo="true" mt="1556675806000"/>
+    <file name="poppins-lightitalic-webfont2.svg" crc="3926829561" seo="true" mt="1556675806000"/>
+    <file name="poppins-lightitalic-webfont2.woff" crc="3891156432" seo="true" mt="1556675806000"/>
+    <file name="poppins-lightitalic-webfont2.woff2" crc="266577912" seo="true" mt="1556675806000"/>
+    <file name="poppins-medium-webfont2.eot" crc="512166517" seo="true" mt="1556675806000"/>
+    <file name="poppins-medium-webfont2.svg" crc="231391522" seo="true" mt="1556675806000"/>
+    <file name="poppins-medium-webfont2.woff" crc="385995523" seo="true" mt="1556675806000"/>
+    <file name="poppins-medium-webfont2.woff2" crc="4122330564" seo="true" mt="1556675806000"/>
+    <file name="poppins-regular-webfont2.eot" crc="3874717403" seo="true" mt="1556675806000"/>
+    <file name="poppins-regular-webfont2.svg" crc="428461597" seo="true" mt="1556675806000"/>
+    <file name="poppins-regular-webfont2.woff" crc="245720104" seo="true" mt="1556675806000"/>
+    <file name="poppins-regular-webfont2.woff2" crc="4030135994" seo="true" mt="1556675806000"/>
+    <file name="poppins-semibold-webfont2.eot" crc="387972167" seo="true" mt="1556675806000"/>
+    <file name="poppins-semibold-webfont2.svg" crc="4073693585" seo="true" mt="1556675806000"/>
+    <file name="poppins-semibold-webfont2.woff" crc="288325053" seo="true" mt="1556675806000"/>
+    <file name="poppins-semibold-webfont2.woff2" crc="403943430" seo="true" mt="1556675806000"/>
+    <file name="poppins-thin-webfont2.eot" crc="4203742160" seo="true" mt="1556675806000"/>
+    <file name="poppins-thin-webfont2.svg" crc="464060645" seo="true" mt="1556675806000"/>
+    <file name="poppins-thin-webfont2.woff" crc="175867362" seo="true" mt="1556675806000"/>
+    <file name="poppins-thin-webfont2.woff2" crc="3870269027" seo="true" mt="1556675806000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="museutils.js" crc="340535759" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="whatinput.js" crc="86476730" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u25545.php" crc="4047211724" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="require.js" crc="7928878" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="62364230" ref="index"/>
+    <file name="red_sq.png" crc="2474407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax_thumb.jpg" crc="128511350" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fetch_1 _thumb.jpg" crc="90148093" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_sq90x90.png" crc="192282900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="java_thumb.jpg" crc="4094388651" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wireframe_thumb.jpg" crc="4087602945" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog_service_thumb.jpg" crc="3822887508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sugar-skull_thumb.jpg" crc="509046998" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle90x90.png" crc="3834649977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_semi100x100.png" crc="311825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_rect.png" crc="53735753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri90x90.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut90x90.png" crc="424639161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_line-u58222.png" crc="4152610657" ref="index"/>
+    <file name="blk_tri-u58209.png" crc="4058618453" ref="index"/>
+    <file name="blu_para-u21376.png" crc="4109251037" ref="index"/>
+    <file name="b_w_logo.svg" crc="4066233462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b_w_logo_poster_.png" crc="364073006" ref="index"/>
+    <file name="sm_github_blk copy.png" crc="388111579" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sm_grey_github.png" crc="3910729323" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sm_blk_link.png" crc="3925805445" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sm_linkedin_grey.png" crc="155134288" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sm_pinterest_blk.png" crc="459649616" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest_grey.png" crc="4231421100" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_semi.png" crc="311825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_line.png" crc="459661651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u35359.png" crc="4183400193" ref="index"/>
+    <file name="blk_tri200x200.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut150x150.png" crc="424639161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle150x150.png" crc="3834649977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="para.jpg" crc="110090939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri-u28871.png" crc="3916988943" ref="index"/>
+    <file name="red_semi90x90.png" crc="311825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_line-u26974.png" crc="104163772" ref="index"/>
+    <file name="yel_doughnut162x162.png" crc="424639161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri150x150.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_semi150x150.png" crc="311825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri162x162.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle150x151.png" crc="3834649977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u353592.png" crc="286268985" ref="index"/>
+    <file name="blk_tri70x70.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut70x70.png" crc="3991176604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri-u288712.png" crc="4149553579" ref="index"/>
+    <file name="blu_circle75x75.png" crc="4197276651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_semi80x80.png" crc="311825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_line-u269742.png" crc="104163772" ref="index"/>
+    <file name="yel_doughnut140x140.png" crc="424639161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri130x130.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_sq210x210.png" crc="325854628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri140x140.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle130x130.png" crc="3834649977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u353593.png" crc="338534422" ref="index"/>
+    <file name="blk_tri61x61.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut61x61.png" crc="290702762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog_service_thumb-u57666-fr.jpg" crc="4284095238" ref="index"/>
+    <file name="blk_tri-u288713.png" crc="511945389" ref="index"/>
+    <file name="yel_line-u269743.png" crc="150644834" ref="index"/>
+    <file name="yel_doughnut120x120.png" crc="424639161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri120x120.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri120x120.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_sq180x180.png" crc="94795511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_semi120x120.png" crc="311825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle100x100.png" crc="3834649977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u57815.png" crc="254676331" ref="index"/>
+    <file name="blk_tri-u57802.png" crc="28541780" ref="index"/>
+    <file name="yel_line-u57789.png" crc="378894676" ref="index"/>
+    <file name="blk_tri88x88.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_sq132x132.png" crc="361001572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut88x88.png" crc="86182023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri88x88.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle74x74.png" crc="3799557515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u578152.png" crc="3836514886" ref="index"/>
+    <file name="blk_tri52x52.png" crc="4145719618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut52x52.png" crc="3779565478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri-u578022.png" crc="370208009" ref="index"/>
+    <file name="yel_line-u577892.png" crc="9908651" ref="index"/>
+    <file name="blu_circle88x88.png" crc="3834649977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri91x91.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u578153.png" crc="3851732578" ref="index"/>
+    <file name="blk_tri-u578023.png" crc="535309269" ref="index"/>
+    <file name="blu_circle60x61.png" crc="203588753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_semi70x70.png" crc="311825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_line-u577893.png" crc="4006982709" ref="index"/>
+    <file name="blk_tri100x100.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_sq125x125.png" crc="245989626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut83x83.png" crc="3768429623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri124x125.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u58235.png" crc="4018599586" ref="index"/>
+    <file name="blk_tri60x60.png" crc="3765442066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut60x60.png" crc="290702762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blk_tri-u58259.png" crc="308048076" ref="index"/>
+    <file name="yel_line-u58275.png" crc="4056282592" ref="index"/>
+    <file name="blu_circle70x70.png" crc="485447631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yel_doughnut67x67.png" crc="4183522973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri100x100.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_sq100x100.png" crc="362433450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle73x73.png" crc="4248959390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u582352.png" crc="271776213" ref="index"/>
+    <file name="blk_tri-u582592.png" crc="4136090532" ref="index"/>
+    <file name="dog_service_thumb-u58095-fr.jpg" crc="190413704" ref="index"/>
+    <file name="fetch_1 _thumb-u58107-fr.jpg" crc="3817904879" ref="index"/>
+    <file name="wireframe_thumb-u58083-fr.jpg" crc="4151644155" ref="index"/>
+    <file name="sugar-skull_thumb-u58131-fr.jpg" crc="4001966797" ref="index"/>
+    <file name="yel_line-u582752.png" crc="4163785744" ref="index"/>
+    <file name="yel_doughnut54x54.png" crc="327333495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_tri81x81.png" crc="429126374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_sq81x81.png" crc="132529178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_circle59x59.png" crc="368547235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blu_para-u582353.png" crc="72952200" ref="index"/>
+    <file name="blk_tri-u582593.png" crc="3778126567" ref="index"/>
+    <file name="yel_line-u582753.png" crc="323153154" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:responsive:java:video:fetch:wireframe:adobe"/>
+    <file name="b_w_logo-2.jpg" crc="4189683412" seo="true" ref="responsive:java:video:fetch:wireframe:adobe">
+      <caption webpage="fetch" alt=""/>
+      <caption webpage="fetch" alt=""/>
+      <caption webpage="fetch" alt=""/>
+      <caption webpage="fetch" alt=""/>
+      <caption webpage="fetch" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="responsive" alt=""/>
+      <caption webpage="responsive" alt=""/>
+      <caption webpage="responsive" alt=""/>
+      <caption webpage="responsive" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="wireframe" alt=""/>
+      <caption webpage="wireframe" alt=""/>
+      <caption webpage="wireframe" alt=""/>
+      <caption webpage="wireframe" alt=""/>
+    </file>
+    <file name="responsive-mock.jpg" crc="177325340" seo="true" ref="responsive">
+      <caption webpage="responsive" alt=""/>
+    </file>
+    <file name="b_w_logo-2-crop-u56487.png" crc="4120937849" seo="true" ref="responsive:java:video:fetch:wireframe:adobe">
+      <caption webpage="fetch" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="responsive" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="wireframe" alt=""/>
+    </file>
+    <file name="responsive-mock304x174.jpg" crc="490083179" seo="true" ref="responsive">
+      <caption webpage="responsive" alt=""/>
+    </file>
+    <file name="responsive-mock150x86.jpg" crc="4099127622" seo="true" ref="responsive">
+      <caption webpage="responsive" alt=""/>
+      <caption webpage="responsive" alt=""/>
+    </file>
+    <file name="responsive-mock132x76.jpg" crc="524570498" seo="true" ref="responsive">
+      <caption webpage="responsive" alt=""/>
+    </file>
+    <file name="grid.jpg" crc="30394041" seo="true" ref="java">
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+    </file>
+    <file name="javamock.jpg" crc="4207625854" seo="true" ref="java">
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+      <caption webpage="java" alt=""/>
+    </file>
+    <file name="dog-servicemock.jpg" crc="3995076890" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="dog_site-mock.jpg" crc="3979394637" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="dog_site-mock-u62052.png" crc="27275064" ref="video"/>
+    <file name="wireframe.jpg" crc="4258826939" seo="true" ref="wireframe">
+      <caption webpage="wireframe" alt=""/>
+    </file>
+    <file name="wireframe304x174.jpg" crc="406701302" seo="true" ref="wireframe">
+      <caption webpage="wireframe" alt=""/>
+    </file>
+    <file name="wireframe-crop-u62103.png" crc="167906366" seo="true" ref="wireframe">
+      <caption webpage="wireframe" alt=""/>
+    </file>
+    <file name="wireframe-crop-u621032.png" crc="117554573" seo="true" ref="wireframe">
+      <caption webpage="wireframe" alt=""/>
+    </file>
+    <file name="wireframe-crop-u621033.png" crc="4194979813" seo="true" ref="wireframe">
+      <caption webpage="wireframe" alt=""/>
+    </file>
+    <file name="photoshopwork-mock.jpg" crc="480110004" seo="true" ref="adobe">
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="adobe" alt=""/>
+    </file>
+    <file name="photoshopwork-mock-crop-u61972.png" crc="3954553842" seo="true" ref="adobe">
+      <caption webpage="adobe" alt=""/>
+    </file>
+    <file name="photoshopwork-mock-crop-u619722.png" crc="412639713" seo="true" ref="adobe">
+      <caption webpage="adobe" alt=""/>
+    </file>
+    <file name="photoshopwork-mock-crop-u619723.png" crc="259897393" seo="true" ref="adobe">
+      <caption webpage="adobe" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="501653890" seo="true" mt="1557778266779" redirect="true"/>
+  <file name="responsive.html" crc="158033950" seo="true" mt="1557698407951" redirect="true"/>
+  <file name="java.html" crc="4284005643" seo="true" mt="1557778115767" redirect="true"/>
+  <file name="video.html" crc="3938485910" seo="true" mt="1557691289688" redirect="true"/>
+  <file name="fetch.html" crc="402771273" seo="true" mt="1557698834128" redirect="true"/>
+  <file name="wireframe.html" crc="514646550" seo="true" mt="1557756096417" redirect="true"/>
+  <file name="adobe.html" crc="4169168755" seo="true" mt="1557700418605" redirect="true"/>
+</manifest>
